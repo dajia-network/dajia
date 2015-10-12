@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', [ 'ionic', 'ionic-material', 'starter.controllers', 'starter.services' ])
+angular.module('starter', [ 'ionic', 'starter.controllers', 'starter.services' ])
 
 .run(function($ionicPlatform) {
 	$ionicPlatform.ready(function() {
@@ -49,6 +49,14 @@ angular.module('starter', [ 'ionic', 'ionic-material', 'starter.controllers', 's
 				controller : 'ProdCtrl'
 			}
 		}
+	}).state('tab.prod-detail', {
+		url : '/prod/:pid',
+		views : {
+			'tab-prod' : {
+				templateUrl : 'templates/prod-detail.html',
+				controller : 'ProdDetailCtrl'
+			}
+		}
 	})
 
 	.state('tab.prog', {
@@ -59,12 +67,12 @@ angular.module('starter', [ 'ionic', 'ionic-material', 'starter.controllers', 's
 				controller : 'ProgCtrl'
 			}
 		}
-	}).state('tab.chat-detail', {
-		url : '/chats/:chatId',
+	}).state('tab.prog-detail', {
+		url : '/prog/:chatId',
 		views : {
-			'tab-chats' : {
-				templateUrl : 'templates/chat-detail.html',
-				controller : 'ChatDetailCtrl'
+			'tab-prog' : {
+				templateUrl : 'templates/prog-detail.html',
+				controller : 'ProgDetailCtrl'
 			}
 		}
 	})
