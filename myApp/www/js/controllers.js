@@ -1,13 +1,31 @@
 angular.module('starter.controllers', [])
 
-.controller('ProdCtrl', function($scope) {
+.controller('ProdCtrl', function($scope, Mocks) {
 	console.log('ProdCtrl...');
+	$scope.products = Mocks.getProducts();
 })
 
 .controller('ProdDetailCtrl', function($scope, $stateParams) {
 	console.log('ProdDetailCtrl...')
-	console.log($scope);
-	console.log($stateParams);
+	if ($stateParams.pid == 1) {
+		$scope.product = {
+			pid : 1,
+			name : '',
+			desc : ''
+		};
+	} else if ($stateParams.pid == 2) {
+		$scope.product = {
+			pid : 1,
+			name : '',
+			desc : ''
+		};
+	} else if ($stateParams.pid == 3) {
+		$scope.product = {
+			pid : 1,
+			name : '',
+			desc : ''
+		};
+	}
 })
 
 .controller('ProgCtrl', function($scope, Chats) {
@@ -20,10 +38,10 @@ angular.module('starter.controllers', [])
 	// $scope.$on('$ionicView.enter', function(e) {
 	// });
 
-	$scope.chats = Chats.all();
-	$scope.remove = function(chat) {
-		Chats.remove(chat);
-	};
+	// $scope.chats = Chats.all();
+	// $scope.remove = function(chat) {
+	// Chats.remove(chat);
+	// };
 })
 
 .controller('ProgDetailCtrl', function($scope, $stateParams, Chats) {

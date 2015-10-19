@@ -1,50 +1,49 @@
 angular.module('starter.services', [])
 
-.factory('Chats', function() {
-  // Might use a resource here that returns a JSON array
+.factory('Mocks', function() {
+	// Might use a resource here that returns a JSON array
 
-  // Some fake testing data
-  var chats = [{
-    id: 0,
-    name: 'Ben Sparrow',
-    lastText: 'You on your way?',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
-  }, {
-    id: 1,
-    name: 'Max Lynx',
-    lastText: 'Hey, it\'s me',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
-  }, {
-    id: 2,
-    name: 'Adam Bradleyson',
-    lastText: 'I should buy a boat',
-    face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
-  }, {
-    id: 3,
-    name: 'Perry Governor',
-    lastText: 'Look at my mukluks!',
-    face: 'https://pbs.twimg.com/profile_images/598205061232103424/3j5HUXMY.png'
-  }, {
-    id: 4,
-    name: 'Mike Harrington',
-    lastText: 'This is wicked good ice cream.',
-    face: 'https://pbs.twimg.com/profile_images/578237281384841216/R3ae1n61.png'
-  }];
+	// Some fake testing data
+	var products = [ {
+		pid : 1,
+		name : '迪奥魅惑唇膏玩色狂想系列',
+		desc : '一款全新风格，一个颠覆性时尚解码：全新Dior迪奥魅惑唇膏玩色狂想系列，采用晶炫酷黑包装，尽显谜漾深邃、晶透纯粹及闪耀光芒。',
+		img : '/img/dajia-sample-1.jpg',
+		vendorImg : '/img/dajia-company-1.jpg',
+		price : 247,
+		priceOff : 132
+	}, {
+		pid : 2,
+		name : '倩碧润肤乳-啫喱配方',
+		desc : '皮肤科医生研发无油保湿配方，与肌肤自然滋润成分如出一辙。',
+		img : '/img/dajia-sample-2.jpg',
+		vendorImg : '/img/dajia-company-2.jpg',
+		price : 205,
+		priceOff : 90
+	}, {
+		pid : 3,
+		name : '香奈儿邂逅活力淡香水50ml',
+		desc : '这款全新的活力淡香水给人以动力，犹如幸运之神赐予的强大能量，不是乍现的灵光，而是无尽活力的源泉，怡人的葡萄柚-血橙复合香调跟随脉搏一起跳动，激发无穷的蓬勃的活力。',
+		img : '/img/dajia-sample-3.jpg',
+		vendorImg : '/img/dajia-company-3.jpg',
+		price : 482,
+		priceOff : 68
+	} ];
 
-  return {
-    all: function() {
-      return chats;
-    },
-    remove: function(chat) {
-      chats.splice(chats.indexOf(chat), 1);
-    },
-    get: function(chatId) {
-      for (var i = 0; i < chats.length; i++) {
-        if (chats[i].id === parseInt(chatId)) {
-          return chats[i];
-        }
-      }
-      return null;
-    }
-  };
+	return {
+		getProducts : function() {
+			return products;
+		},
+		// remove: function(chat) {
+		// chats.splice(chats.indexOf(chat), 1);
+		// },
+		getProduct : function(pid) {
+			for (var i = 0; i < products.length; i++) {
+				if (products[i].pid === parseInt(pid)) {
+					return products[i];
+				}
+			}
+			return null;
+		}
+	};
 });
