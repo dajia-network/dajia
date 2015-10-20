@@ -6,16 +6,16 @@
   <ion-content>
 	<div class="list card" ng-repeat="product in products">
 	  <div class="item item-avatar">
-	    <img src="{{product.vendorImg}}">
+	    <img ng-src="{{product.vendorImg}}">
 	    <h2>{{product.name}}</h2>
 	    <p>{{product.desc}}</p>
 	  </div>
 	
 	  <div class="item item-image">
-	    <img src="{{product.img}}">
+	    <img ng-src="{{product.img}}">
 	  </div>
 	
-	  <a class="item item-icon-right assertive" href="#/tab/prod/1">
+	  <a class="item item-icon-right assertive" href="#/tab/prod/{{product.pid}}">
 	    <i class="icon ion-arrow-graph-down-right"></i>
 	    现在只要￥{{product.price}}（已打掉￥{{product.priceOff}}）
 	  </a>

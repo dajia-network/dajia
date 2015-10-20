@@ -11,7 +11,8 @@ angular.module('starter.services', [])
 		img : '/img/dajia-sample-1.jpg',
 		vendorImg : '/img/dajia-company-1.jpg',
 		price : 247,
-		priceOff : 132
+		priceOff : 132,
+		order: 55
 	}, {
 		pid : 2,
 		name : '倩碧润肤乳-啫喱配方',
@@ -19,7 +20,8 @@ angular.module('starter.services', [])
 		img : '/img/dajia-sample-2.jpg',
 		vendorImg : '/img/dajia-company-2.jpg',
 		price : 205,
-		priceOff : 90
+		priceOff : 90,
+		order: 28
 	}, {
 		pid : 3,
 		name : '香奈儿邂逅活力淡香水50ml',
@@ -27,7 +29,8 @@ angular.module('starter.services', [])
 		img : '/img/dajia-sample-3.jpg',
 		vendorImg : '/img/dajia-company-3.jpg',
 		price : 482,
-		priceOff : 68
+		priceOff : 68,
+		order: 19
 	} ];
 
 	return {

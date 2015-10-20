@@ -5,27 +5,9 @@ angular.module('starter.controllers', [])
 	$scope.products = Mocks.getProducts();
 })
 
-.controller('ProdDetailCtrl', function($scope, $stateParams) {
+.controller('ProdDetailCtrl', function($scope, $stateParams, Mocks) {
 	console.log('ProdDetailCtrl...')
-	if ($stateParams.pid == 1) {
-		$scope.product = {
-			pid : 1,
-			name : '',
-			desc : ''
-		};
-	} else if ($stateParams.pid == 2) {
-		$scope.product = {
-			pid : 1,
-			name : '',
-			desc : ''
-		};
-	} else if ($stateParams.pid == 3) {
-		$scope.product = {
-			pid : 1,
-			name : '',
-			desc : ''
-		};
-	}
+	$scope.product = Mocks.getProduct($stateParams.pid);
 })
 
 .controller('ProgCtrl', function($scope, Chats) {
