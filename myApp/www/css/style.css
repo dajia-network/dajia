@@ -1,1 +1,8 @@
 /* Empty. Add your own CSS if you like */
+.ori_price {
+	text-decoration: line-through;
+}
+
+.now_price {
+	font-size: 1.8em;
+}

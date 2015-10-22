@@ -4,19 +4,56 @@
 		返回
 	</ion-nav-back-button>
 </ion-nav-bar>
-<ion-content class="padding">
-<div class="item item-body">
-	<img class="full-image" ng-src="{{product.img}}">
-	<p>{{product.desc}}</p>
-	<p>
-		<a href="#" class="subdued">{{product.order}}人参与打价</a>
-	</p>
-</div>
-
-<div class="item tabs tabs-secondary tabs-icon-left">
-	<a class="tab-item" href="#"> <i class="icon ion-star"></i> 收藏
-	</a> <a class="tab-item" href="#"> <i class="icon ion-chatbox"></i> 评论
-	</a> <a class="tab-item" href="#"> <i class="icon ion-share"></i> 分享
-	</a>
-</div>
-</ion-content> </ion-view>
+<ion-content>
+	<div class="list card">
+		<div class="item item-body">
+			<ion-slide-box on-slide-changed="slideHasChanged($index)">
+			  <ion-slide>
+			    <img class="full-image" ng-src="{{product.img}}">
+			  </ion-slide>
+			  <ion-slide>
+			    <img class="full-image" ng-src="{{product.img}}">
+			  </ion-slide>
+			  <ion-slide>
+			    <img class="full-image" ng-src="{{product.img}}">
+			  </ion-slide>
+			</ion-slide-box>
+			<p>{{product.desc}}</p>
+			<p>
+				<a href="#" class="subdued">{{product.order}}人参与打价</a>
+			</p>
+			<p>
+				<span class="ori_price">￥{{product.oriPrice}}</span>&nbsp;<span class="assertive now_price">￥{{product.price}}</span>
+			</p>
+		</div>
+	
+		<div class="item tabs tabs-secondary tabs-icon-left">
+			<a class="tab-item" href="#"> <i class="icon ion-star"></i> 收藏
+			</a> 
+			<a class="tab-item" href="#"> <i class="icon ion-chatbox"></i> 评论
+			</a> 
+			<a class="tab-item" href="#"> <i class="icon ion-share"></i> 分享
+			</a>
+			<button class="button button-outline button-assertive">
+			  立即购买
+			</button>
+		</div>
+	</div>
+	<div class="card">
+	  <div class="item item-divider">
+	    产品介绍
+	  </div>
+	  <div class="item item-text-wrap">
+	    {{product.long_desc}}
+	  </div>
+	</div>
+	<div class="card">
+	  <div class="item item-divider">
+	    产品规格
+	  </div>
+	  <div class="item item-text-wrap">
+	    {{product.spec}}
+	  </div>
+	</div>
+</ion-content> 
+</ion-view>
