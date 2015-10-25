@@ -59,6 +59,16 @@ angular.module('starter', [ 'ionic', 'starter.controllers', 'starter.services' ]
 		}
 	})
 
+	.state('tab.prod-order', {
+		url : '/prod/:pid/order',
+		views : {
+			'tab-prod' : {
+				templateUrl : 'templates/order.html',
+				controller : 'OrderCtrl'
+			}
+		}
+	})
+
 	.state('tab.prog', {
 		url : '/prog',
 		views : {

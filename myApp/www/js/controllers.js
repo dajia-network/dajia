@@ -5,9 +5,13 @@ angular.module('starter.controllers', [])
 	$scope.products = Mocks.getProducts();
 })
 
-.controller('ProdDetailCtrl', function($scope, $stateParams, Mocks) {
+.controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, Mocks) {
 	console.log('ProdDetailCtrl...')
 	$scope.product = Mocks.getProduct($stateParams.pid);
+	$scope.buyNow = function() {
+		// $state.go('tab.prod-order');
+		$window.location.href = '#/tab/prod/' + $stateParams.pid + '/order';
+	}
 })
 
 .controller('ProgCtrl', function($scope, Chats) {
@@ -38,4 +42,13 @@ angular.module('starter.controllers', [])
 	$scope.settings = {
 		enableFriends : true
 	};
+})
+
+.controller('OrderCtrl', function($scope, $stateParams, Mocks) {
+	console.log('OrderCtrl...')
+	var product = Mocks.getProduct($stateParams.pid);
+	var orders = [];
+	orders.push(product);
+	$scope.orders = orders;
+	$scope.totalPrice = product.price;
 });

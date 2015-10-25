@@ -6,3 +6,15 @@
 .now_price {
 	font-size: 1.8em;
 }
+
+.row.noPadding {
+	padding: 0;
+}
+
+.col.noPadding {
+	padding: 0;
+}
+
+.item.noBorder {
+	border-width: 0;
+}
