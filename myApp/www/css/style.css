@@ -18,3 +18,25 @@
 .item.noBorder {
 	border-width: 0;
 }
+
+.progress {
+	height: 1.4em;
+	margin-bottom: 2px;
+}
+
+.progress i {
+	line-height: 1em;
+}
+
+.progress-bar {
+	transition: width 1s ease-in-out;
+}
+
+.progress-bar-success {
+	background-color: #ef473a;
+}
+
+.label-row {
+	margin: 0px;
+	padding: 0px;
+}

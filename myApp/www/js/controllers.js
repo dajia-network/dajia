@@ -1,17 +1,24 @@
-angular.module('starter.controllers', [])
-
+angular.module('starter.controllers', ["ui.bootstrap","countTo"])
 .controller('ProdCtrl', function($scope, Mocks) {
 	console.log('ProdCtrl...');
 	$scope.products = Mocks.getProducts();
 })
 
-.controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, Mocks) {
+.controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, $timeout, Mocks) {
 	console.log('ProdDetailCtrl...')
-	$scope.product = Mocks.getProduct($stateParams.pid);
+	var product = Mocks.getProduct($stateParams.pid);
+	$scope.product = product;
 	$scope.buyNow = function() {
 		// $state.go('tab.prod-order');
 		$window.location.href = '#/tab/prod/' + $stateParams.pid + '/order';
 	}
+	var amt = product.price/product.oriPrice*100;
+	$scope.countTo = product.price;
+	$scope.countFrom = product.oriPrice;
+	$scope.progressValue = 0;
+	$timeout(function() {
+		$scope.progressValue = amt;
+	}, 1000);
 })
 
 .controller('ProgCtrl', function($scope, Chats) {
@@ -47,8 +54,8 @@ angular.module('starter.controllers', [])
 .controller('OrderCtrl', function($scope, $stateParams, Mocks) {
 	console.log('OrderCtrl...')
 	var product = Mocks.getProduct($stateParams.pid);
-	var orders = [];
-	orders.push(product);
-	$scope.orders = orders;
+	var orderItems = [];
+	orderItems.push(product);
+	$scope.orderItems = orderItems;
 	$scope.totalPrice = product.price;
 });

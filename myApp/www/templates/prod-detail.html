@@ -23,8 +23,19 @@
 				<a href="#" class="subdued">{{product.order}}人参与打价</a>
 			</p>
 			<p>
-				<span class="ori_price">￥{{product.oriPrice}}</span>&nbsp;<span class="assertive now_price">￥{{product.price}}</span>
+				<span class="ori_price">￥{{product.oriPrice}}</span>&nbsp;
+				<span class="assertive now_price">￥</span>
+				<span class="assertive now_price" count-to="{{countTo}}" duration="2" value="{{countFrom}}"></span>
 			</p>
+			<div>
+			    <progressbar class="progress-striped active" animate="true" max="100" value="progressValue" type="success">
+			    	<!-- <i><span count-to="{{countTo}}" duration="2" value="{{countFrom}}"></span> / {{product.targetPrice}}</i> -->
+			    </progressbar>
+			</div>
+		    <ul class="row label-row">
+	            <li class="col" style="text-align: left;">原价:￥{{product.oriPrice}}</li>
+	            <li class="col" style="text-align: right;">目标价:￥{{product.targetPrice}}</li>
+	        </ul>
 		</div>
 	
 		<div class="item tabs tabs-secondary tabs-icon-left">

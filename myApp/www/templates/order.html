@@ -5,7 +5,7 @@
 	</ion-nav-back-button>
 </ion-nav-bar>
 <ion-content>
-	<div class="list" ng-repeat="order in orders">
+	<div class="list" ng-repeat="orderItem in orderItems">
 		<div class="item item-divider">
 		  收货信息
 		</div>
@@ -23,8 +23,8 @@
 		</div>
 		<div class="item">
 		<div class="item noBorder item-thumbnail-left">
-			<img ng-src="{{order.img}}">
-			<h3>{{order.name}}</h3>
+			<img ng-src="{{orderItem.img}}">
+			<h3>{{orderItem.name}}</h3>
 			<!-- <p>Nine Inch Nails</p> -->
 		</div>
 		<div class="row">
@@ -42,7 +42,7 @@
 		</div>
 		<div class="row">
 			<div class="col">商品金额</div>
-			<div class="col text-right assertive">￥{{order.price}}</div>
+			<div class="col text-right assertive">￥{{orderItem.price}}</div>
 		</div>
 		</div>
 		<div class="item item-divider">

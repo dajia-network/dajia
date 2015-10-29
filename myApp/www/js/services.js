@@ -10,9 +10,10 @@ angular.module('starter.services', [])
 		desc : '一款全新风格，一个颠覆性时尚解码：全新Dior迪奥魅惑唇膏玩色狂想系列，采用晶炫酷黑包装，尽显谜漾深邃、晶透纯粹及闪耀光芒。',
 		img : '/img/dajia-sample-1.jpg',
 		vendorImg : '/img/dajia-company-1.jpg',
-		oriPrice : 480,
-		price : 247,
-		priceOff : 132,
+		oriPrice : 480.00,
+		price : 247.00,
+		priceOff : 132.00,
+		targetPrice : 150.00,
 		order : 55,
 		long_desc : '...',
 		spec : '...'
@@ -25,6 +26,7 @@ angular.module('starter.services', [])
 		oriPrice : 295,
 		price : 205,
 		priceOff : 90,
+		targetPrice : 120,
 		order : 28,
 		long_desc : '...',
 		spec : '...'
@@ -37,6 +39,7 @@ angular.module('starter.services', [])
 		oriPrice : 550,
 		price : 482,
 		priceOff : 68,
+		targetPrice : 240,
 		order : 19,
 		long_desc : '...',
 		spec : '...'
