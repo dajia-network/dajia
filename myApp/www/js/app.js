@@ -78,7 +78,7 @@ angular.module('starter', [ 'ionic', 'starter.controllers', 'starter.services' ]
 			}
 		}
 	}).state('tab.prog-detail', {
-		url : '/prog/:chatId',
+		url : '/prog/:orderId',
 		views : {
 			'tab-prog' : {
 				templateUrl : 'templates/prog-detail.html',

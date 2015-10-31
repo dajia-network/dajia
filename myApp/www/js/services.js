@@ -12,9 +12,10 @@ angular.module('starter.services', [])
 		vendorImg : '/img/dajia-company-1.jpg',
 		oriPrice : 480.00,
 		price : 247.00,
-		priceOff : 132.00,
+		priceOff : 232.00,
 		targetPrice : 150.00,
-		order : 55,
+		orderNum : 65,
+		targetOrderNum : 100,
 		long_desc : '...',
 		spec : '...'
 	}, {
@@ -27,7 +28,8 @@ angular.module('starter.services', [])
 		price : 205,
 		priceOff : 90,
 		targetPrice : 120,
-		order : 28,
+		orderNum : 28,
+		targetOrderNum : 100,
 		long_desc : '...',
 		spec : '...'
 	}, {
@@ -40,9 +42,41 @@ angular.module('starter.services', [])
 		price : 482,
 		priceOff : 68,
 		targetPrice : 240,
-		order : 19,
+		orderNum : 19,
+		targetOrderNum : 100,
 		long_desc : '...',
 		spec : '...'
+	} ];
+
+	var myOrders = [ {
+		id : 1,
+		pid : 1,
+		number : 1,
+		price : 281,
+		orderDate : '2015/10/26',
+		dueDate : '2015/11/05',
+		status : '已付款',
+		contactId : 1
+	}, {
+		id : 2,
+		pid : 3,
+		number : 1,
+		price : 500,
+		orderDate : '2015/10/29',
+		dueDate : '2015/11/09',
+		status : '已付款',
+		contactId : 1
+	} ];
+
+	var contacts = [ {
+		id : 1,
+		name : '王大锤',
+		cell : '13609999999',
+		province : '上海',
+		city : '上海市',
+		district : '静安区',
+		address1 : '南京西路1686号',
+		address2 : '静安寺 大雄宝殿'
 	} ];
 
 	return {
@@ -56,6 +90,25 @@ angular.module('starter.services', [])
 			for (var i = 0; i < products.length; i++) {
 				if (products[i].pid === parseInt(pid)) {
 					return products[i];
+				}
+			}
+			return null;
+		},
+		getMyOrders : function() {
+			return myOrders;
+		},
+		getOrder : function(oid) {
+			for (var i = 0; i < myOrders.length; i++) {
+				if (myOrders[i].id === parseInt(oid)) {
+					return myOrders[i];
+				}
+			}
+			return null;
+		},
+		getContact : function(id) {
+			for (var i = 0; i < contacts.length; i++) {
+				if (contacts[i].id === parseInt(id)) {
+					return contacts[i];
 				}
 			}
 			return null;
