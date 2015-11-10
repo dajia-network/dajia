@@ -45,3 +45,15 @@ a:hover,a:focus {
 	color: inherit;
 	text-decoration: none;
 }
+
+.platform-ios.platform-cordova:not(.fullscreen) .bar-header:not(.bar-subheader) {
+    height: 44px;
+}
+
+.platform-ios.platform-cordova:not(.fullscreen) .bar-subheader, .platform-ios.platform-cordova:not(.fullscreen) .has-header, .platform-ios.platform-cordova:not(.fullscreen) .tabs-top>.tabs, .platform-ios.platform-cordova:not(.fullscreen) .tabs.tabs-top {
+    top: 44px;
+}
+
+.platform-ios.platform-cordova:not(.fullscreen) .bar-header:not(.bar-subheader)>* {
+    margin-top: 0px;
+}
