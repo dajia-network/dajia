@@ -100,4 +100,12 @@ angular.module('starter', [ 'ionic', 'starter.controllers', 'starter.services' ]
 	// if none of the above states are matched, use this as the fallback
 	$urlRouterProvider.otherwise('/tab/prod');
 
+}).config(function($ionicConfigProvider) {
+	var appVersion = navigator.appVersion;
+	console.log(appVersion);
+	alert(appVersion);
+	if(appVersion.indexOf('iPhone')==-1){
+		$ionicConfigProvider.views.transition('none');
+	}
 });
+

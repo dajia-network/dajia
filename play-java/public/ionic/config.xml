@@ -19,6 +19,6 @@
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashScreen" value="img/screen.png" />
     <preference name="SplashScreenDelay" value="3000" />
-    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="AutoHideSplashScreen" value="true" />
     <preference name="Orientation" value="portrait" />
 </widget>
