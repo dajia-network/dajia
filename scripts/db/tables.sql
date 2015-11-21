@@ -10,7 +10,7 @@ CREATE TABLE dajia.user (
 	wechat VARCHAR(100) NOT NULL,
 	last_visit_date TIMESTAMP NULL,
 	last_visit_ip VARCHAR(20) NULL,
-	create_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
 	modified_date TIMESTAMP NULL,
     is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
 	PRIMARY KEY(user_id),
@@ -34,7 +34,7 @@ CREATE TABLE dajia.product (
     target_price NUMERIC(10,2),
 	start_date TIMESTAMP NULL,
 	expired_date TIMESTAMP NULL,
-	create_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
 	modified_date TIMESTAMP NULL,
     is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
 	PRIMARY KEY(product_id)
@@ -47,7 +47,7 @@ CREATE TABLE dajia.product_img (
     sort INT NULL,
     location VARCHAR(500) NULL,
     img_type INT NULL,
-	create_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
 	modified_date TIMESTAMP NULL,
     is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
 	PRIMARY KEY(img_id)

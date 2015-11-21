@@ -2,7 +2,7 @@ name := """play-java"""
 
 version := "1.0-SNAPSHOT"
 
-lazy val root = (project in file(".")).enablePlugins(PlayJava)
+lazy val root = (project in file(".")).enablePlugins(PlayJava, PlayEbean)
 
 scalaVersion := "2.11.6"
 
@@ -18,3 +18,7 @@ routesGenerator := InjectedRoutesGenerator
 
 
 fork in run := false
+
+fork in run := true
+
+libraryDependencies += "mysql" % "mysql-connector-java" % "5.1.18"
