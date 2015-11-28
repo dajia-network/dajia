@@ -63,5 +63,8 @@ public class Product extends Model {
     @Column(name="is_active")
     public String isActive;
     
+    @OneToMany(mappedBy="product", cascade=CascadeType.ALL)
+    public List<ProductImage> productImages;
+    
     public static Finder<Long, Product> find = new Finder<Long,Product>(Product.class);
 }

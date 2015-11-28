@@ -21,6 +21,7 @@ public class ProductController extends Controller {
         .eq("isActive", "Y")
         .orderBy("createdDate asc")
         .findList();
+        System.out.println(productList.get(0));
         return ok(Json.toJson(productList));
     }
     
