@@ -115,39 +115,3 @@ starter.factory('Mocks', function() {
 		}
 	};
 });
-
-starter.factory('ProductService', function() {
-	return {
-		getProducts : function() {
-			return [ {
-				pid : 1,
-				name : '迪奥魅惑唇膏玩色狂想系列',
-				desc : '一款全新风格，一个颠覆性时尚解码：全新Dior迪奥魅惑唇膏玩色狂想系列，采用晶炫酷黑包装，尽显谜漾深邃、晶透纯粹及闪耀光芒。',
-				img : './img/dajia-sample-1.jpg',
-				vendorImg : './img/dajia-company-1.jpg',
-				oriPrice : 480.00,
-				price : 247.00,
-				priceOff : 232.00,
-				targetPrice : 150.00,
-				orderNum : 65,
-				targetOrderNum : 100,
-				long_desc : '...',
-				spec : '...'
-			}, {
-				pid : 2,
-				name : '倩碧润肤乳-啫喱配方',
-				desc : '皮肤科医生研发无油保湿配方，与肌肤自然滋润成分如出一辙。',
-				img : './img/dajia-sample-2.jpg',
-				vendorImg : './img/dajia-company-2.jpg',
-				oriPrice : 295,
-				price : 205,
-				priceOff : 90,
-				targetPrice : 120,
-				orderNum : 28,
-				targetOrderNum : 100,
-				long_desc : '...',
-				spec : '...'
-			}];
-		}
-	};
-});

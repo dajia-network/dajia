@@ -46,6 +46,7 @@ CREATE TABLE dajia.product_img (
 	product_id BIGINT(25) NOT NULL,
     sort INT NULL,
     location VARCHAR(500) NULL,
+    path VARCHAR(500) NULL,
     img_type INT NULL,
 	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
 	modified_date TIMESTAMP NULL,

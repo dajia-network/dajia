@@ -21,6 +21,19 @@ public class ProductController extends Controller {
         .eq("isActive", "Y")
         .orderBy("createdDate asc")
         .findList();
+        for(Product p : productList){
+            p.priceOff = p.originalPrice.add(p.currentPrice.negate());
+            List<ProductImage> prodImgs = ProductImage.find.select("path").where()
+            .eq("productId", p.productId).eq("imgType", 1).eq("isActive", "Y")
+            .findList();
+            List<ProductImage> vendorImgs = ProductImage.find.select("path").where()
+            .eq("productId", p.productId).eq("imgType", 2).eq("isActive", "Y")
+            .findList();
+            if(prodImgs != null && prodImgs.size() > 0)
+                p.productImg = prodImgs.get(0).path;
+            if(vendorImgs != null && vendorImgs.size() > 0)
+                p.vendorImg = vendorImgs.get(0).path;
+        }
         System.out.println(productList.get(0));
         return ok(Json.toJson(productList));
     }

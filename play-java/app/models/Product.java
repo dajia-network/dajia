@@ -63,6 +63,15 @@ public class Product extends Model {
     @Column(name="is_active")
     public String isActive;
     
+    @Transient
+    public BigDecimal priceOff;
+    
+    @Transient
+    public String productImg;
+    
+    @Transient
+    public String vendorImg;
+    
     @OneToMany(mappedBy="product", cascade=CascadeType.ALL)
     public List<ProductImage> productImages;
     

@@ -25,6 +25,9 @@ public class ProductImage extends Model {
     @Column(name="location")
     public String location;
     
+    @Column(name="path")
+    public String path;
+    
     @Column(name="img_type")
     public Integer imgType;
     

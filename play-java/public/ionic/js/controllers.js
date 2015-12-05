@@ -1,6 +1,12 @@
-angular.module('starter.controllers', [ "ui.bootstrap", "countTo" ]).controller('ProdCtrl', function($scope, ProductService) {
+angular.module('starter.controllers', [ "ui.bootstrap", "countTo" ]).controller('ProdCtrl', function($scope, $http) {
 	console.log('产品列表...');
-	$scope.products = ProductService.getProducts();
+	$http.get('/products/').success(function(data, status, headers, config) {
+		console.log(data);
+		$scope.products = data;
+	}).error(function(data, status, headers, config) {
+		console.log('request failed...');
+	});
+	// $scope.products = ProductService.getProducts();
 })
 
 .controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, $timeout, Mocks) {

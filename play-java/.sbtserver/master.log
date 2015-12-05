@@ -1,5 +1,5 @@
-New log file opened at Wed Dec 02 23:47:16 CST 2015 by 74460@Puffys-MacBook-Pro.local
-jvm 74460@Puffys-MacBook-Pro.local
+New log file opened at Fri Dec 04 00:39:54 CST 2015 by 77144@Puffys-MacBook-Pro.local
+jvm 77144@Puffys-MacBook-Pro.local
 jvm vmName=Java HotSpot(TM) 64-Bit Server VM vmVendor=Oracle Corporation vmVersion=25.40-b25
 jvm specName=Java Virtual Machine Specification specVendor=Oracle Corporation specVersion=1.8
 jvm arguments: [-Xms256m, -Xmx1024m, -XX:MetaspaceSize=64m, -XX:MaxMetaspaceSize=256m]
@@ -27,7 +27,7 @@ sorting: ns: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.Jvm
   :: sorted deduced result: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)
 [Loading] Done in /Users/Puffy/git/dajia/play-java/project, returning: (play-java-build)
 Loading project definition from /Users/Puffy/git/dajia/play-java/project
-Running task... Cancel: sbt.TaskCancellationStrategy$Null$@429a9424, check cycles: false
+Running task... Cancel: sbt.TaskCancellationStrategy$Null$@6dd8dd23, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -69,7 +69,7 @@ Set current project to play-java (in build file:/Users/Puffy/git/dajia/play-java
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@1d4b099d, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@35779eed, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -86,18 +86,18 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Dec 2, 2015 11:47:23 PM
+Total time: 1 s, completed Dec 4, 2015 12:40:01 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
 Evaluating tasks: compile:mainClass
-Running task... Cancel: sbt.server.ServerTaskCancellation@11d87f1a, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:23 PM
+Running task... Cancel: sbt.server.ServerTaskCancellation@38b3403, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:40:01 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@e1e202c, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@1132aeac, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -114,12 +114,12 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Dec 2, 2015 11:47:23 PM
+Total time: 1 s, completed Dec 4, 2015 12:40:02 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@316ac4d9, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@57c5b9e, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -136,36 +136,36 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Dec 2, 2015 11:47:24 PM
+Total time: 1 s, completed Dec 4, 2015 12:40:02 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
 Evaluating tasks: compile:mainClass
-Running task... Cancel: sbt.server.ServerTaskCancellation@4ad73a56, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:24 PM
+Running task... Cancel: sbt.server.ServerTaskCancellation@67f9230a, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:40:02 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > backgroundRun
 Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@4ae5dc6d, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:25 PM
+Running task... Cancel: sbt.server.ServerTaskCancellation@7668ba1, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:41:45 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
 Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@e532346, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:28 PM
+Running task... Cancel: sbt.server.ServerTaskCancellation@38783e6b, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:41:48 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > root/playForkNotifyStart http://localhost:9000
 Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@2e8f4155, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:30 PM
+Running task... Cancel: sbt.server.ServerTaskCancellation@36311163, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:41:50 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@1dc43945, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@634120d6, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -189,12 +189,343 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Dec 2, 2015 11:47:34 PM
+Total time: 1 s, completed Dec 4, 2015 12:43:10 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@74c53bb4, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 4, 2015 12:46:44 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > compile
 Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@75e6b0d, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@7bc493fa, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@3eb47e22 directly...
+Java compilation took 0.911358216 s
+Java analysis took 0.193122343 s
+Java compile + analysis took 1.113843569 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 2 s, completed Dec 4, 2015 12:47:40 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@1631797e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@6a97dd9a directly...
+Java compilation took 0.150263024 s
+Java analysis took 0.081755568 s
+Java compile + analysis took 0.239804369 s
+Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
+Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
+	productImg, productImages, priceOff, vendorImg.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
+New invalidations:
+	Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@6a97dd9a directly...
+Java compilation took 0.147168406 s
+Java analysis took 0.122926644 s
+Java compile + analysis took 0.276232802 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 4, 2015 12:49:04 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@45b2052c, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@607dfc01 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+Read from stdout: 第一个类型:  java.math.BigDecimal
+Read from stdout: 第二个类型: java.math.BigDecimal
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+  第一个类型:  java.math.BigDecimal
+  第二个类型: java.math.BigDecimal
+Read from stdout: p.originalPrice - p.currentPrice
+p.originalPrice - p.currentPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 0 s, completed Dec 4, 2015 12:49:39 AM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@347897e9, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@7377e5b3 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+Read from stdout: 第一个类型:  java.math.BigDecimal
+Read from stdout: 第二个类型: java.math.BigDecimal
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+  第一个类型:  java.math.BigDecimal
+  第二个类型: java.math.BigDecimal
+Read from stdout: p.originalPrice - p.currentPrice
+p.originalPrice - p.currentPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 4, 2015 12:52:43 AM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@49742bca, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@1dbd8a61 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+Read from stdout: 第一个类型:  java.math.BigDecimal
+Read from stdout: 第二个类型: java.math.BigDecimal
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+  第一个类型:  java.math.BigDecimal
+  第二个类型: java.math.BigDecimal
+Read from stdout: p.originalPrice - p.currentPrice
+p.originalPrice - p.currentPrice
+Total time: 1 s, completed Dec 5, 2015 12:10:44 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@57ece7aa, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@dc3b2e directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 二元运算符 '-' 的操作数类型错误
+Read from stdout: 第一个类型:  java.math.BigDecimal
+Read from stdout: 第二个类型: java.math.BigDecimal
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 二元运算符 '-' 的操作数类型错误
+  第一个类型:  java.math.BigDecimal
+  第二个类型: java.math.BigDecimal
+Read from stdout: p.originalPrice - p.currentPrice
+p.originalPrice - p.currentPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 2:54:57 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@587ec721, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@28060252 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+Read from stdout: 第一个类型:  java.math.BigDecimal
+Read from stdout: 第二个类型: java.math.BigDecimal
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:25: 二元运算符 '-' 的操作数类型错误
+  第一个类型:  java.math.BigDecimal
+  第二个类型: java.math.BigDecimal
+Read from stdout: p.originalPrice - p.currentPrice
+p.originalPrice - p.currentPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 2:58:26 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@43f28688, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@78bb86fd directly...
+Java compilation took 0.088976289 s
+Java analysis took 0.13986929 s
+Java compile + analysis took 0.235547408 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 5, 2015 3:00:16 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@1144eb59, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -211,12 +542,58 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Dec 2, 2015 11:48:35 PM
+Total time: 1 s, completed Dec 5, 2015 3:00:45 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@4a694a6e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed Dec 5, 2015 3:00:51 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 1
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@3327e217, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:00:55 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@44adc992, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:01:04 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@1a128dd5, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:01:07 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@6977b18e, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:01:09 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@4e727e75, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@4d6a97e, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -240,12 +617,370 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Dec 2, 2015 11:50:00 PM
+Total time: 1 s, completed Dec 5, 2015 3:01:19 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@a175fd9, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@5b2cea8d directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:27: 找不到符号
+Read from stdout: 符号:   方法 equal(java.lang.String,int)
+Read from stdout: 位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:27: 找不到符号
+  符号:   方法 equal(java.lang.String,int)
+  位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+Read from stdout: ProductImage.find.where()
+Read from stdout: .equal
+ProductImage.find.where()
+            .equal
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:30: 找不到符号
+Read from stdout: 符号:   方法 equal(java.lang.String,int)
+Read from stdout: 位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:30: 找不到符号
+  符号:   方法 equal(java.lang.String,int)
+  位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+Read from stdout: ProductImage.find.where()
+Read from stdout: .equal
+ProductImage.find.where()
+            .equal
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:23:52 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@7c6b0bf1, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@356689ce directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:27: 无法将类 java.lang.Object中的方法 equals应用到给定类型;
+Read from stdout: 需要: java.lang.Object
+Read from stdout: 找到: java.lang.String,int
+Read from stdout: 原因: 实际参数列表和形式参数列表长度不同
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:27: 无法将类 java.lang.Object中的方法 equals应用到给定类型;
+  需要: java.lang.Object
+  找到: java.lang.String,int
+  原因: 实际参数列表和形式参数列表长度不同
+Read from stdout: ProductImage.find.where()
+Read from stdout: .equals
+ProductImage.find.where()
+            .equals
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:30: 无法将类 java.lang.Object中的方法 equals应用到给定类型;
+Read from stdout: 需要: java.lang.Object
+Read from stdout: 找到: java.lang.String,int
+Read from stdout: 原因: 实际参数列表和形式参数列表长度不同
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:30: 无法将类 java.lang.Object中的方法 equals应用到给定类型;
+  需要: java.lang.Object
+  找到: java.lang.String,int
+  原因: 实际参数列表和形式参数列表长度不同
+Read from stdout: ProductImage.find.where()
+Read from stdout: .equals
+ProductImage.find.where()
+            .equals
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:24:00 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@51756bf7, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@202b531e directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 找不到符号
+Read from stdout: 符号:   方法 select(java.lang.String)
+Read from stdout: 位置: 类 models.ProductImage
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 找不到符号
+  符号:   方法 select(java.lang.String)
+  位置: 类 models.ProductImage
+Read from stdout: ProductImage.select
+ProductImage.select
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:29: 找不到符号
+Read from stdout: 符号:   方法 select(java.lang.String)
+Read from stdout: 位置: 类 models.ProductImage
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:29: 找不到符号
+  符号:   方法 select(java.lang.String)
+  位置: 类 models.ProductImage
+Read from stdout: ProductImage.select
+ProductImage.select
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:26:17 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@26ea3fd6, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@6ca74b9e directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 找不到符号
+Read from stdout: 符号:   方法 select(java.lang.String)
+Read from stdout: 位置: 类 models.ProductImage
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:26: 找不到符号
+  符号:   方法 select(java.lang.String)
+  位置: 类 models.ProductImage
+Read from stdout: ProductImage.select
+ProductImage.select
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:29: 找不到符号
+Read from stdout: 符号:   方法 select(java.lang.String)
+Read from stdout: 位置: 类 models.ProductImage
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:29: 找不到符号
+  符号:   方法 select(java.lang.String)
+  位置: 类 models.ProductImage
+Read from stdout: ProductImage.select
+ProductImage.select
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:26:25 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@233fcebd, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@7afee1b4 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:28: 找不到符号
+Read from stdout: 符号:   方法 getList()
+Read from stdout: 位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:28: 找不到符号
+  符号:   方法 getList()
+  位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+Read from stdout: ProductImage.find.select("path").where()
+Read from stdout: .eq("imgType", 1)
+Read from stdout: .getList
+ProductImage.find.select("path").where()
+            .eq("imgType", 1)
+            .getList
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:31: 找不到符号
+Read from stdout: 符号:   方法 getList()
+Read from stdout: 位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:31: 找不到符号
+  符号:   方法 getList()
+  位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+Read from stdout: ProductImage.find.select("path").where()
+Read from stdout: .eq("imgType", 2)
+Read from stdout: .getList
+ProductImage.find.select("path").where()
+            .eq("imgType", 2)
+            .getList
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:26:53 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@568724cb, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@5ac7b221 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:31: 找不到符号
+Read from stdout: 符号:   方法 getList()
+Read from stdout: 位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:31: 找不到符号
+  符号:   方法 getList()
+  位置: 接口 com.avaje.ebean.ExpressionList<models.ProductImage>
+Read from stdout: ProductImage.find.select("path").where()
+Read from stdout: .eq("imgType", 2)
+Read from stdout: .getList
+ProductImage.find.select("path").where()
+            .eq("imgType", 2)
+            .getList
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 5, 2015 3:27:20 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@6f722ac7, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@a9e0d48 directly...
+Java compilation took 0.085636214 s
+Java analysis took 0.09969864 s
+Java compile + analysis took 0.190776532 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 5, 2015 3:27:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@68e78a30, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed Dec 5, 2015 3:27:26 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@52c257a0, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Total time: 0 s, completed Dec 5, 2015 3:27:32 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@6a2348f2, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@271dd2de, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -269,12 +1004,36 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Dec 2, 2015 11:54:28 PM
+Total time: 1 s, completed Dec 5, 2015 3:27:40 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 2
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@684b06fc, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:28:42 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@3f15e1eb, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:28:52 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@3103e9a5, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:28:55 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@6b642681, check cycles: false
+Total time: 0 s, completed Dec 5, 2015 3:28:57 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@7c2daa03, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@4fe57d2d, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -298,6 +1057,239 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Dec 2, 2015 11:54:46 PM
+Total time: 1 s, completed Dec 5, 2015 3:29:10 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@7a1a90bf, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@133a99f4 directly...
+Java compilation took 0.135642134 s
+Java analysis took 0.105356569 s
+Java compile + analysis took 0.251705006 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 5, 2015 3:39:35 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@19b6796e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 5, 2015 3:39:42 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@53611149, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@7dced046 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:34: 找不到符号
+Read from stdout: 符号:   变量 vendorImg
+Read from stdout: 位置: 类 controllers.ProductController
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:34: 找不到符号
+  符号:   变量 vendorImg
+  位置: 类 controllers.ProductController
+Read from stdout: vendorImg
+vendorImg
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:34: 找不到符号
+Read from stdout: 符号:   变量 vendorImg
+Read from stdout: 位置: 类 controllers.ProductController
+/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:34: 找不到符号
+  符号:   变量 vendorImg
+  位置: 类 controllers.ProductController
+Read from stdout: vendorImg
+vendorImg
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 1 s, completed Dec 6, 2015 2:03:38 AM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@40cb683c, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@5826c9c3 directly...
+Java compilation took 0.127829001 s
+Java analysis took 0.12309607 s
+Java compile + analysis took 0.256098802 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 2:04:04 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@10e35c59, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 2:04:15 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@2995c8fb, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@4314352d directly...
+Java compilation took 0.132056146 s
+Java analysis took 0.110294071 s
+Java compile + analysis took 0.253298955 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 2:05:26 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@173f6075, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 2:06:04 AM
 > server-post-command-cleanup
 > server-handle-next-server-request

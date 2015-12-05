@@ -1,5 +1,5 @@
-New log file opened at Fri Nov 27 00:59:06 CST 2015 by 65214@Puffys-MacBook-Pro.local
-jvm 65214@Puffys-MacBook-Pro.local
+New log file opened at Wed Dec 02 23:47:16 CST 2015 by 74460@Puffys-MacBook-Pro.local
+jvm 74460@Puffys-MacBook-Pro.local
 jvm vmName=Java HotSpot(TM) 64-Bit Server VM vmVendor=Oracle Corporation vmVersion=25.40-b25
 jvm specName=Java Virtual Machine Specification specVendor=Oracle Corporation specVersion=1.8
 jvm arguments: [-Xms256m, -Xmx1024m, -XX:MetaspaceSize=64m, -XX:MaxMetaspaceSize=256m]
@@ -27,7 +27,7 @@ sorting: ns: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.Jvm
   :: sorted deduced result: List(sbt.plugins.CorePlugin, sbt.plugins.IvyPlugin, sbt.plugins.JvmPlugin, sbt.plugins.JUnitXmlReportPlugin)
 [Loading] Done in /Users/Puffy/git/dajia/play-java/project, returning: (play-java-build)
 Loading project definition from /Users/Puffy/git/dajia/play-java/project
-Running task... Cancel: sbt.TaskCancellationStrategy$Null$@1444e7f7, check cycles: false
+Running task... Cancel: sbt.TaskCancellationStrategy$Null$@429a9424, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -69,7 +69,7 @@ Set current project to play-java (in build file:/Users/Puffy/git/dajia/play-java
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@4eba20ec, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@1d4b099d, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -86,18 +86,18 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Nov 27, 2015 12:59:13 AM
+Total time: 1 s, completed Dec 2, 2015 11:47:23 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
 Evaluating tasks: compile:mainClass
-Running task... Cancel: sbt.server.ServerTaskCancellation@42d9ccac, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 12:59:13 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@11d87f1a, check cycles: false
+Total time: 0 s, completed Dec 2, 2015 11:47:23 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@74e0320c, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@e1e202c, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -114,12 +114,12 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Nov 27, 2015 12:59:13 AM
+Total time: 1 s, completed Dec 2, 2015 11:47:23 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@64f306ea, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@316ac4d9, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -136,171 +136,36 @@ Sources indirectly invalidated by:
 	external source: Set()
 All initially invalidated sources: Set()
 
-Total time: 1 s, completed Nov 27, 2015 12:59:14 AM
+Total time: 1 s, completed Dec 2, 2015 11:47:24 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
 Evaluating tasks: compile:mainClass
-Running task... Cancel: sbt.server.ServerTaskCancellation@1c891463, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 12:59:14 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@17bd645e, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 0 s, completed Nov 27, 2015 12:59:19 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@4ad73a56, check cycles: false
+Total time: 0 s, completed Dec 2, 2015 11:47:24 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > backgroundRun
 Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@7b720b95, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 12:59:21 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@4ae5dc6d, check cycles: false
+Total time: 0 s, completed Dec 2, 2015 11:47:25 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
 Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@f59a0cb, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 12:59:24 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@e532346, check cycles: false
+Total time: 0 s, completed Dec 2, 2015 11:47:28 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > root/playForkNotifyStart http://localhost:9000
 Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@68e6d0d8, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 12:59:26 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@2e8f4155, check cycles: false
+Total time: 0 s, completed Dec 2, 2015 11:47:30 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@1caa9a4, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-SLF4J: The following set of substitute loggers may have been accessed
-SLF4J: during the initialization phase. Logging calls during this
-SLF4J: phase were not honored. However, subsequent logging calls to these
-SLF4J: loggers will work as normally expected.
-SLF4J: See also http://www.slf4j.org/codes.html#substituteLogger
-SLF4J: org.webjars.WebJarExtractor
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 27, 2015 12:59:59 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@7a51e7bd, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@1015801b directly...
-Java compilation took 0.892879342 s
-Java analysis took 0.176321923 s
-Java compile + analysis took 1.082752152 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	ProductImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@1015801b directly...
-Java compilation took 0.09477561 s
-Java analysis took 0.116667481 s
-Java compile + analysis took 0.217726059 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 2 s, completed Nov 27, 2015 1:06:42 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@28965634, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 1 s, completed Nov 27, 2015 1:06:43 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@261c6d7a, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@1dc43945, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -324,127 +189,232 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 27, 2015 1:06:48 AM
+Total time: 1 s, completed Dec 2, 2015 11:47:34 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > compile
 Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@688832e, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@75e6b0d, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+	modified: Set()
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+Initial directly invalidated sources: Set()
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
+All initially invalidated sources: Set()
 
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@4b33d9dd directly...
-Java compilation took 0.140713638 s
-Java analysis took 0.117707721 s
-Java compile + analysis took 0.274676132 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 27, 2015 1:11:38 AM
+Total time: 1 s, completed Dec 2, 2015 11:48:35 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@541551ca, check cycles: false
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@4e727e75, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+	modified: Set()
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Initial directly invalidated sources: Set()
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+All initially invalidated sources: Set()
 
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@67507313 directly...
-Java compilation took 0.109317588 s
-Java analysis took 0.199093798 s
-Java compile + analysis took 0.315116214 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	ProductImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@67507313 directly...
-Java compilation took 0.094961586 s
-Java analysis took 0.121972869 s
-Java compile + analysis took 0.222887604 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 27, 2015 1:12:30 AM
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 2, 2015 11:50:00 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6a2348f2, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 2, 2015 11:54:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@7c2daa03, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 2, 2015 11:54:46 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@14f1360a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 3, 2015 12:01:21 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@68c5a196, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 3, 2015 12:08:58 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@68c1e4f2, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 3, 2015 12:09:19 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > jobStop 1
 Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@5e04ceca, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 1:12:34 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@775730b8, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 12:10:21 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > backgroundRun
 Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@229a3947, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 1:12:48 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@6160ad2, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 12:10:34 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
 Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@6b11ce54, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 1:12:51 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@5e880f9e, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 12:10:38 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > root/playForkNotifyStart http://localhost:9000
 Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@20da410b, check cycles: false
-Total time: 0 s, completed Nov 27, 2015 1:12:52 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@183c7e8, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 12:10:39 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@546e69b5, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@23347246, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -468,69 +438,12 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 27, 2015 1:12:56 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@5001a955, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@59170809 directly...
-Java compilation took 0.153531018 s
-Java analysis took 0.092444082 s
-Java compile + analysis took 0.258341675 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	ProductImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@59170809 directly...
-Java compilation took 0.110607118 s
-Java analysis took 0.08655041 s
-Java compile + analysis took 0.202257406 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 27, 2015 1:13:57 AM
+Total time: 1 s, completed Dec 3, 2015 12:10:42 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@6311948f, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@4af0e5a6, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -554,619 +467,118 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 27, 2015 1:14:07 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@57b5f924, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@1d2a6ccc directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 不是语句
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 不是语句
-Read from stdout: productList.get(0)
-productList.get(0)
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 1 s, completed Nov 27, 2015 1:15:56 AM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@c8f65, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@6119c09f directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: ProductImages在models.Product中不是公共的; 无法从外部程序包中对其进行访问
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: ProductImages在models.Product中不是公共的; 无法从外部程序包中对其进行访问
-Read from stdout: productList.get(0).ProductImages
-productList.get(0).ProductImages
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 1 s, completed Nov 27, 2015 1:16:14 AM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@36935f31, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@696c9f29 directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-Read from stdout: 符号:   变量 getProductImages
-Read from stdout: 位置: 类 models.Product
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-  符号:   变量 getProductImages
-  位置: 类 models.Product
-Read from stdout: productList.get(0).getProductImages
-productList.get(0).getProductImages
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 1 s, completed Nov 27, 2015 1:16:28 AM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@4b2aa27, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@10f079e1 directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-Read from stdout: 符号:   变量 getProductImages
-Read from stdout: 位置: 类 models.Product
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-  符号:   变量 getProductImages
-  位置: 类 models.Product
-Read from stdout: productList.get(0).getProductImages
-productList.get(0).getProductImages
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 0 s, completed Nov 27, 2015 1:16:52 AM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@3f8e2519, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@305c317b directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-Read from stdout: 符号:   变量 productImages
-Read from stdout: 位置: 类 models.Product
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-  符号:   变量 productImages
-  位置: 类 models.Product
-Read from stdout: productList.get(0).productImages
-productList.get(0).productImages
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 0 s, completed Nov 27, 2015 1:17:05 AM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@3f2c1fd5, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@3481fe1e directly...
-Java compilation took 0.084393225 s
-Java analysis took 0.076923687 s
-Java compile + analysis took 0.167953619 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	productImages, ProductImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@3481fe1e directly...
-Java compilation took 0.070251274 s
-Java analysis took 0.065799281 s
-Java compile + analysis took 0.142661726 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 27, 2015 1:17:18 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@8955625, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 0 s, completed Nov 27, 2015 1:17:25 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@ef3eec5, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 0 s, completed Nov 27, 2015 1:17:30 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@47044130, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 0 s, completed Nov 27, 2015 1:17:39 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@76e1cc37, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@61e21921 directly...
-Read from stdout: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-Read from stdout: 符号:   变量 getProductImages
-Read from stdout: 位置: 类 models.Product
-/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java:24: 找不到符号
-  符号:   变量 getProductImages
-  位置: 类 models.Product
-Read from stdout: productList.get(0).getProductImages
-productList.get(0).getProductImages
-Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
-(compile:compileIncremental) javac returned nonzero exit code
-Total time: 1 s, completed Nov 28, 2015 2:30:11 PM
-> server-post-command-error-handler
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@84ef222, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 1 s, completed Nov 28, 2015 2:36:02 PM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@4777110f, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 1:31:03 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@50de46b8, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 1 s, completed Nov 29, 2015 1:31:23 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@346c5c04, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@33b1f15b directly...
-Java compilation took 0.114072181 s
-Java analysis took 0.114112425 s
-Java compile + analysis took 0.234869132 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 29, 2015 1:36:01 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@3b9196f6, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 1:36:10 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@2e542b33, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@68c7cd42 directly...
-Java compilation took 0.053227562 s
-Java analysis took 0.040126829 s
-Java compile + analysis took 0.098046739 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 0 s, completed Nov 29, 2015 1:36:55 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@cc42d45, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 0 s, completed Nov 29, 2015 1:36:58 AM
+Total time: 1 s, completed Dec 3, 2015 12:10:52 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > jobStop 2
 Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@7919e637, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:33 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> jobStop 2
-Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@1a56cbd3, check cycles: false
-Exception in thread "sbt-bg-threads-2" java.lang.Error: java.lang.InterruptedException: sleep interrupted
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1148)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
-	at java.lang.Thread.run(Thread.java:745)
-Caused by: java.lang.InterruptedException: sleep interrupted
-	at java.lang.Thread.sleep(Native Method)
-	at play.sbt.forkrun.PlayForkProcess$.timedWaitFor(PlayForkProcess.scala:80)
-	at play.sbt.forkrun.PlayForkProcess$.play$sbt$forkrun$PlayForkProcess$$stop$1(PlayForkProcess.scala:54)
-	at play.sbt.forkrun.PlayForkProcess$.run(PlayForkProcess.scala:70)
-	at play.sbt.forkrun.PlayForkProcess$.apply(PlayForkProcess.scala:35)
-	at play.sbt.forkrun.PlayForkRun$$anonfun$backgroundForkRunTask$1$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.apply(PlayForkRun.scala:108)
-	at play.sbt.forkrun.PlayForkRun$$anonfun$backgroundForkRunTask$1$$anonfun$apply$7$$anonfun$apply$8$$anonfun$apply$9.apply(PlayForkRun.scala:107)
-	at sbt.BackgroundThreadPool$$anonfun$1.apply$mcV$sp(AbstractBackgroundJobService.scala:134)
-	at sbt.BackgroundThreadPool$BackgroundRunnable.run(AbstractBackgroundJobService.scala:68)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
-	... 2 more
-Total time: 0 s, completed Nov 29, 2015 1:42:35 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@2d856ce5, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 12:12:10 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > backgroundRun
 Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@3687aa67, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:41 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@4a325ec7, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 11:50:22 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
 Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@321243e4, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:45 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@568a4bac, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 11:50:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@1fce536c, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 11:50:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@39fbf320, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 3, 2015 11:51:40 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@29539b35, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 3, 2015 11:59:19 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > jobStop 3
 Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@355693c8, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:45 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> root/playForkNotifyStart http://localhost:9000
-Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@6c15eae5, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:46 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@10c16630, check cycles: false
+Total time: 0 s, completed Dec 3, 2015 11:59:59 PM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > backgroundRun
 Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@3398455f, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:54 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@4ead67d0, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:00:11 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
 Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@3e2c6b15, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:56 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@21c6b120, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:00:13 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > root/playForkNotifyStart http://localhost:9000
 Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@499de5f5, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 1:42:57 AM
+Running task... Cancel: sbt.server.ServerTaskCancellation@12dfa202, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:00:15 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@7eb4b43d, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@1847a4f2, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -1190,46 +602,12 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 1:43:00 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@6b45b9b3, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@5c833390 directly...
-Java compilation took 0.084871817 s
-Java analysis took 0.051486859 s
-Java compile + analysis took 0.140581693 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 0 s, completed Nov 29, 2015 1:43:13 AM
+Total time: 1 s, completed Dec 4, 2015 12:00:16 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@f8afd62, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@7c86e948, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -1253,69 +631,41 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 1:43:16 AM
+Total time: 1 s, completed Dec 4, 2015 12:02:01 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@773cb9a1, check cycles: false
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@d14a3a5, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+	modified: Set()
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Initial directly invalidated sources: Set()
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+All initially invalidated sources: Set()
 
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@5265ab66 directly...
-Java compilation took 0.130171201 s
-Java analysis took 0.08119655 s
-Java compile + analysis took 0.217576962 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	productImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java, /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@5265ab66 directly...
-Java compilation took 0.148539623 s
-Java analysis took 0.123390935 s
-Java compile + analysis took 0.279441233 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 29, 2015 1:58:08 AM
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 4, 2015 12:06:18 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > compile
 Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@64fceb29, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@358251ee, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -1334,303 +684,16 @@ All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/mode
 
 Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
 Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@17455e8d directly...
-Java compilation took 0.051376496 s
-Java analysis took 0.052943599 s
-Java compile + analysis took 0.109721001 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 29, 2015 1:58:17 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@4608de81, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Total time: 1 s, completed Nov 29, 2015 1:59:07 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@2261876a, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 1:59:12 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@7d5c3240, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@3049b988 directly...
-Java compilation took 0.068821622 s
-Java analysis took 0.040860044 s
-Java compile + analysis took 0.115462101 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 0 s, completed Nov 29, 2015 2:00:09 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@4031f239, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 2:00:38 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> jobStop 4
-Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@66bdc792, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 2:02:52 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> backgroundRun
-Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@1a7cce9e, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 2:03:01 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
-Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@585b6f97, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 2:03:04 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> root/playForkNotifyStart http://localhost:9000
-Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@4fc28d90, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 2:03:05 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@e7db0e3, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 2:03:08 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@5e5a12d5, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@54d2bbe6 directly...
-Java compilation took 0.061793117 s
-Java analysis took 0.042877145 s
-Java compile + analysis took 0.110601015 s
-Invalidating /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/Product.java...
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
-The /Users/Puffy/git/dajia/play-java/app/models/Product.java source file has the following regular definitions changed:
-	productImages.
-All member reference dependencies will be considered within this context.
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/Product.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
-Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-New invalidations:
-	Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java, /Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
-Read from stdout: Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 2 Java sources to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@54d2bbe6 directly...
-Java compilation took 0.104122891 s
-Java analysis took 0.078763083 s
-Java compile + analysis took 0.186076948 s
-New invalidations:
-	Set()
-Initial set of included nodes: Set()
-Previously invalidated, but (transitively) depend on new invalidations:
-	Set()
-All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 1 s, completed Nov 29, 2015 2:04:11 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
-Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@63c691ed, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set()
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set()
-
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 0 s, completed Nov 29, 2015 2:04:26 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> compile
-Evaluating tasks: compile:compile
-Running task... Cancel: sbt.server.ServerTaskCancellation@6dabc7c8, check cycles: false
-
-Initial source changes: 
-	removed:Set()
-	added: Set()
-	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-Removed products: Set()
-External API changes: API Changes: Set()
-Modified binary dependencies: Set()
-Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-
-Sources indirectly invalidated by:
-	product: Set()
-	binary dep: Set()
-	external source: Set()
-All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
-
-Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
-Attempting to call com.sun.tools.javac.api.JavacTool@21edf6eb directly...
-Java compilation took 0.045177417 s
-Java analysis took 0.06352566 s
-Java compile + analysis took 0.114670494 s
+Attempting to call com.sun.tools.javac.api.JavacTool@569980b0 directly...
+Java compilation took 0.800482703 s
+Java analysis took 0.294613385 s
+Java compile + analysis took 1.111208589 s
 Invalidating /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java...
 Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java...
 Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
 Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/app/models/ProductImage.java)
 The /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java source file has the following regular definitions changed:
-	imgType.
+	path.
 All member reference dependencies will be considered within this context.
 Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/app/models/ProductImage.java
 New invalidations:
@@ -1639,12 +702,12 @@ Initial set of included nodes: Set()
 Previously invalidated, but (transitively) depend on new invalidations:
 	Set()
 All newly invalidated sources after taking into account (previously) recompiled sources:Set()
-Total time: 0 s, completed Nov 29, 2015 2:05:30 AM
+Total time: 2 s, completed Dec 4, 2015 12:13:43 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@72f2c0cd, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@2f2e7abb, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -1668,36 +731,12 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 2:05:33 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> jobStop 5
-Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@27c71967, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 2:07:51 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> backgroundRun
-Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@4a43d00f, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 11:13:35 PM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
-Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@596818b6, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 11:13:39 PM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> root/playForkNotifyStart http://localhost:9000
-Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@3b44a06a, check cycles: false
-Total time: 0 s, completed Nov 29, 2015 11:13:41 PM
+Total time: 1 s, completed Dec 4, 2015 12:24:18 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@3758ca8f, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@50e68b89, check cycles: false
 
 Initial source changes: 
 	removed:Set()
@@ -1721,117 +760,394 @@ Copy resource mappings:
 	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
 	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Nov 29, 2015 11:13:44 PM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> jobStop 6
-Evaluating tasks: *:jobStop
-Running task... Cancel: sbt.server.ServerTaskCancellation@60dc6f2d, check cycles: false
-Total time: 0 s, completed Nov 30, 2015 12:10:10 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> backgroundRun
-Evaluating tasks: compile:backgroundRun
-Running task... Cancel: sbt.server.ServerTaskCancellation@5475e56a, check cycles: false
-Total time: 0 s, completed Nov 30, 2015 12:10:21 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
-Evaluating tasks: *:playForkConfig
-Running task... Cancel: sbt.server.ServerTaskCancellation@4352111e, check cycles: false
-Total time: 0 s, completed Nov 30, 2015 12:10:25 AM
-> server-post-command-cleanup
-> server-handle-next-server-request
-> root/playForkNotifyStart http://localhost:9000
-Evaluating tasks: *:playForkNotifyStart
-Running task... Cancel: sbt.server.ServerTaskCancellation@161ce42b, check cycles: false
-Total time: 0 s, completed Nov 30, 2015 12:10:26 AM
+Total time: 1 s, completed Dec 4, 2015 12:24:22 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@424eca70, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@71ce677e, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 2 s, completed Nov 30, 2015 12:10:33 AM
+Read from stdout: Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 1c063532, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Scala compilation took 6.760858852 s
+Attempting to call com.sun.tools.javac.api.JavacTool@149ec45b directly...
+Java compilation took 0.082846407 s
+Java analysis took 0.013788745 s
+Java compile + analysis took 0.102403591 s
+Invalidating /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+The /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala source file has the following regular definitions changed:
+	versioned.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(versioned)
+New invalidations:
+	Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala
+Including /Users/Puffy/git/dajia/play-java/app/controllers/Application.java by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/Application.java
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Read from stdout: Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 7ce6a124, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+        <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+Read from stdout: ^
+                                                                            ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+Read from stdout: ^
+                                                                                 ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+        <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+Read from stdout: ^
+                                             ^
+Read from stdout: three errors found
+three errors found
+Compilation failed (CompilerInterface)
+Total time: 9 s, completed Dec 4, 2015 12:29:16 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
 Evaluating tasks: *:playForkReload
-Running task... Cancel: sbt.server.ServerTaskCancellation@478537cd, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@13fab2ec, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
-Copy resource mappings: 
-	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
-	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
-	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
-	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
-Total time: 1 s, completed Dec 2, 2015 11:46:55 PM
+Read from stdout: Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 4ce0e29e, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Scala compilation took 2.523176251 s
+Attempting to call com.sun.tools.javac.api.JavacTool@e1a310 directly...
+Java compilation took 0.066797433 s
+Java analysis took 0.013254692 s
+Java compile + analysis took 0.084238131 s
+Invalidating /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+The /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala source file has the following regular definitions changed:
+	versioned.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(versioned)
+New invalidations:
+	Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala
+Including /Users/Puffy/git/dajia/play-java/app/controllers/Application.java by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/Application.java
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Read from stdout: Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 499c39f9, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+        <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+Read from stdout: ^
+                                                                            ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+Read from stdout: ^
+                                                                                 ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+        <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+Read from stdout: ^
+                                             ^
+Read from stdout: three errors found
+three errors found
+Compilation failed (CompilerInterface)
+Total time: 4 s, completed Dec 4, 2015 12:29:27 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
-> {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
-Evaluating tasks: compile:mainClass
-Running task... Cancel: sbt.server.ServerTaskCancellation@560c8889, check cycles: false
-Total time: 0 s, completed Dec 2, 2015 11:47:07 PM
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@43ac2d9, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+
+Read from stdout: Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 82e3d9a, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Scala compilation took 1.981007684 s
+Attempting to call com.sun.tools.javac.api.JavacTool@92a7592 directly...
+Java compilation took 0.061403048 s
+Java analysis took 0.014161684 s
+Java compile + analysis took 0.081042954 s
+Invalidating /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Invalidating (transitively) by inheritance from /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala...
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+Invalidated by transitive inheritance dependency: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
+The /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala source file has the following regular definitions changed:
+	versioned.
+All member reference dependencies will be considered within this context.
+Name hashing optimization doesn't apply to non-Scala dependency: /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+The following modified names cause invalidation of /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala: Set(versioned)
+New invalidations:
+	Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Initial set of included nodes: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala
+Including /Users/Puffy/git/dajia/play-java/app/controllers/Application.java by /Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/index.template.scala
+Including /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala by /Users/Puffy/git/dajia/play-java/app/controllers/Application.java
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/twirl/main/views/html/main.template.scala)
+Read from stdout: Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Scala source and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 4fa2085e, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:8: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+        <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+Read from stdout: ^
+                                                                            ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:9: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+        <link rel="shortcut icon" type="image/png" href="@routes.Assets.versioned("images/favicon.png")">
+Read from stdout: ^
+                                                                                 ^
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Read from stdout: Unspecified value parameter file.
+/Users/Puffy/git/dajia/play-java/app/views/main.scala.html:10: not enough arguments for method versioned: (path: String, file: controllers.Assets.Asset)play.api.mvc.Call.
+Unspecified value parameter file.
+Read from stdout: <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+        <script src="@routes.Assets.versioned("javascripts/hello.js")" type="text/javascript"></script>
+Read from stdout: ^
+                                             ^
+Read from stdout: three errors found
+three errors found
+Compilation failed (CompilerInterface)
+Read from stdout: (compile:compileIncremental) Compilation failed
+(compile:compileIncremental) Compilation failed
+Total time: 3 s, completed Dec 4, 2015 12:30:16 AM
+> server-post-command-error-handler
 > server-post-command-cleanup
 > server-handle-next-server-request
 > {file:/Users/Puffy/git/dajia/play-java/}root/compile:discoveredMainClasses
 Evaluating tasks: compile:discoveredMainClasses
-Running task... Cancel: sbt.server.ServerTaskCancellation@379196b8, check cycles: false
+Running task... Cancel: sbt.server.ServerTaskCancellation@29be2307, check cycles: false
 
 Initial source changes: 
 	removed:Set()
 	added: Set()
-	modified: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 Removed products: Set()
 External API changes: API Changes: Set()
 Modified binary dependencies: Set()
-Initial directly invalidated sources: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
 Sources indirectly invalidated by:
 	product: Set()
 	binary dep: Set()
 	external source: Set()
-All initially invalidated sources: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/routes.java, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/Routes.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/router/RoutesPrefix.scala, /Users/Puffy/git/dajia/play-java/target/scala-2.11/routes/main/controllers/ReverseRoutes.scala)
 
-Total time: 1 s, completed Dec 2, 2015 11:47:08 PM
+Read from stdout: Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 4 Scala sources and 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Getting compiler-interface from component compiler for Scala 2.11.6
+Other repositories:
+Default repositories:
+Running cached compiler 46d8be83, interfacing (CompilerInterface) with Scala compiler version 2.11.6
+Calling Scala compiler with arguments  (CompilerInterface):
+	-deprecation
+	-unchecked
+	-encoding
+	utf8
+	-bootclasspath
+	/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/classes:/Users/Puffy/Works/activator/repository/org.scala-lang/scala-library/2.11.6/jars/scala-library.jar
+	-classpath
+	/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes:/Users/Puffy/Works/activator/repository/com.typesafe.play/play-enhancer/1.1.0/jars/play-enhancer.jar:/Users/Puffy/Works/activator/repository/com.typesafe.play/twirl-api_2.11/1.1.1/jars/twirl-api_2.11.jar:/Users/Puffy/Works/activator/repository/org.apache.commons/commons-lang3/3.4/jars/commons-lang3.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.1.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ebean_2.11/jars/play-ebean_2.11-1.0.0.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-jdbc_2.11/jars/play-java-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc_2.11/jars/play-jdbc_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-api_2.11/jars/play-jdbc-api_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/build-link/jars/build-link-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-exceptions/jars/play-exceptions-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.javassist/javassist/3.19.0-GA/bundles/javassist.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-iteratees_2.11/jars/play-iteratees_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar:/Users/Puffy/Works/activator/repository/com.typesafe/config/1.3.0/bundles/config.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/joda-time/joda-time/2.8.1/jars/joda-time.jar:/Users/Puffy/Works/activator/repository/org.joda/joda-convert/1.7/jars/joda-convert.jar:/Users/Puffy/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-core/2.5.4/bundles/jackson-core.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-annotations/2.5.4/bundles/jackson-annotations.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.core/jackson-databind/2.5.4/bundles/jackson-databind.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.5.4/bundles/jackson-datatype-jdk8.jar:/Users/Puffy/Works/activator/repository/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.5.4/bundles/jackson-datatype-jsr310.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-utils/jars/play-netty-utils-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.slf4j/slf4j-api/1.7.12/jars/slf4j-api.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jul-to-slf4j/1.7.12/jars/jul-to-slf4j.jar:/Users/Puffy/Works/activator/repository/org.slf4j/jcl-over-slf4j/1.7.12/jars/jcl-over-slf4j.jar:/Users/Puffy/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.1.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-core/1.1.3/jars/logback-core.jar:/Users/Puffy/Works/activator/repository/ch.qos.logback/logback-classic/1.1.3/jars/logback-classic.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.13.jar:/Users/Puffy/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.13.jar:/Users/Puffy/Works/activator/repository/commons-codec/commons-codec/1.10/jars/commons-codec.jar:/Users/Puffy/.ivy2/cache/xerces/xercesImpl/jars/xercesImpl-2.11.0.jar:/Users/Puffy/.ivy2/cache/xml-apis/xml-apis/jars/xml-apis-1.4.01.jar:/Users/Puffy/.ivy2/cache/javax.transaction/jta/jars/jta-1.1.jar:/Users/Puffy/Works/activator/repository/com.google.inject/guice/4.0/jars/guice.jar:/Users/Puffy/Works/activator/repository/javax.inject/javax.inject/1/jars/javax.inject.jar:/Users/Puffy/Works/activator/repository/aopalliance/aopalliance/1.0/jars/aopalliance.jar:/Users/Puffy/Works/activator/repository/com.google.inject.extensions/guice-assistedinject/4.0/jars/guice-assistedinject.jar:/Users/Puffy/Works/activator/repository/com.jolbox/bonecp/0.8.0.RELEASE/bundles/bonecp.jar:/Users/Puffy/Works/activator/repository/com.zaxxer/HikariCP/2.3.7/bundles/HikariCP.jar:/Users/Puffy/Works/activator/repository/com.h2database/h2/1.4.187/jars/h2.jar:/Users/Puffy/Works/activator/repository/tyrex/tyrex/1.0.1/jars/tyrex.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java_2.11/jars/play-java_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/org.scala-lang.modules/scala-java8-compat_2.11/0.3.0/bundles/scala-java8-compat_2.11.jar:/Users/Puffy/Works/activator/repository/org.yaml/snakeyaml/1.15/bundles/snakeyaml.jar:/Users/Puffy/Works/activator/repository/org.hibernate/hibernate-validator/5.0.3.Final/jars/hibernate-validator.jar:/Users/Puffy/Works/activator/repository/javax.validation/validation-api/1.1.0.Final/jars/validation-api.jar:/Users/Puffy/Works/activator/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar:/Users/Puffy/Works/activator/repository/org.jboss.logging/jboss-logging/3.2.1.Final/jars/jboss-logging.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-context/4.1.6.RELEASE/jars/spring-context.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-core/4.1.6.RELEASE/jars/spring-core.jar:/Users/Puffy/Works/activator/repository/org.springframework/spring-beans/4.1.6.RELEASE/jars/spring-beans.jar:/Users/Puffy/Works/activator/repository/org.reflections/reflections/0.9.9/jars/reflections.jar:/Users/Puffy/Works/activator/repository/com.google.guava/guava/18.0/bundles/guava.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/annotations/2.0.1/jars/annotations.jar:/Users/Puffy/Works/activator/repository/net.jodah/typetools/0.4.1/bundles/typetools.jar:/Users/Puffy/Works/activator/repository/com.google.code.findbugs/jsr305/2.0.3/jars/jsr305.jar:/Users/Puffy/Works/activator/repository/org.apache.tomcat/tomcat-servlet-api/8.0.21/jars/tomcat-servlet-api.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-jdbc-evolutions_2.11/jars/play-jdbc-evolutions_2.11-2.4.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm/jars/avaje-ebeanorm-4.6.2.jar:/Users/Puffy/.ivy2/cache/javax.persistence/persistence-api/jars/persistence-api-1.0.jar:/Users/Puffy/.ivy2/cache/org.avaje.ebeanorm/avaje-ebeanorm-agent/jars/avaje-ebeanorm-agent-4.5.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-server_2.11/jars/play-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-netty-server_2.11/jars/play-netty-server_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/io.netty/netty/bundles/netty-3.10.4.Final.jar:/Users/Puffy/Works/activator/repository/com.typesafe.netty/netty-http-pipelining/1.1.4/jars/netty-http-pipelining.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-cache_2.11/jars/play-cache_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/net.sf.ehcache/ehcache-core/2.6.11/jars/ehcache-core.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-java-ws_2.11/jars/play-java-ws_2.11-2.4.3.jar:/Users/Puffy/.ivy2/cache/com.typesafe.play/play-ws_2.11/jars/play-ws_2.11-2.4.3.jar:/Users/Puffy/Works/activator/repository/com.ning/async-http-client/1.9.21/jars/async-http-client.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-core/jars/signpost-core-1.2.1.2.jar:/Users/Puffy/.ivy2/cache/oauth.signpost/signpost-commonshttp4/jars/signpost-commonshttp4-1.2.1.2.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpcore/4.0.1/jars/httpcore.jar:/Users/Puffy/Works/activator/repository/org.apache.httpcomponents/httpclient/4.0.1/jars/httpclient.jar:/Users/Puffy/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.1.jar:/Users/Puffy/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.18.jar
+Scala compilation took 2.081287849 s
+Attempting to call com.sun.tools.javac.api.JavacTool@72e7afec directly...
+Java compilation took 0.06836156 s
+Java analysis took 0.014502425 s
+Java compile + analysis took 0.088192971 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 3 s, completed Dec 4, 2015 12:39:48 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/compile:mainClass
+Evaluating tasks: compile:mainClass
+Running task... Cancel: sbt.server.ServerTaskCancellation@18026fb9, check cycles: false
+Total time: 0 s, completed Dec 4, 2015 12:39:48 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
 Done executing sbt server engine, result Right(Exit(0))
@@ -1840,4 +1156,4 @@ Waiting for socket thread
 Waiting for request processor thread
 Waiting for command engine result
 Returning control to sbt launcher with result Exit(0)
-Closing the 65214@Puffys-MacBook-Pro.local logs at Wed Dec 02 23:47:10 CST 2015, goodbye.
+Closing the 74460@Puffys-MacBook-Pro.local logs at Fri Dec 04 00:39:48 CST 2015, goodbye.
