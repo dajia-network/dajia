@@ -8,19 +8,13 @@
 	<div class="list card">
 		<div class="item item-body">
 			<ion-slide-box on-slide-changed="slideHasChanged($index)">
-			  <ion-slide>
-			    <img class="full-image" ng-src="{{product.img}}">
-			  </ion-slide>
-			  <ion-slide>
-			    <img class="full-image" ng-src="{{product.img}}">
-			  </ion-slide>
-			  <ion-slide>
-			    <img class="full-image" ng-src="{{product.img}}">
+			  <ion-slide ng-repeat="prodImg in product.productImages">
+			    <img ng-src="{{prodImg.path}}" class="full-image">
 			  </ion-slide>
 			</ion-slide-box>
 			<p>{{product.desc}}</p>
 			<p>
-				<span class="ori_price">￥{{product.oriPrice}}</span>&nbsp;
+				<span class="ori_price">￥{{product.originalPrice}}</span>&nbsp;
 				<span class="assertive now_price">￥</span>
 				<span class="assertive now_price" count-to="{{countTo}}" duration="2" value="{{countFrom}}"></span>
 			</p>
@@ -30,7 +24,7 @@
 			    </progressbar>
 			</div>
 		    <ul class="row label-row">
-	            <li class="col" style="text-align: left;">原价:￥{{product.oriPrice}}</li>
+	            <li class="col" style="text-align: left;">原价:￥{{product.originalPrice}}</li>
 	            <li class="col" style="text-align: right;">最低价:￥{{product.targetPrice}}</li>
 	        </ul>
 			<p>

@@ -88,12 +88,14 @@ VALUES(
 INSERT INTO dajia.product_img (
 	product_id,
     sort,
+    img_type,
     location,
     path
 	) 
 VALUES(
 	1,
     0,
+    1,
     '/Users/Puffy/Works/dajia_upload/dajia-sample-1.jpg',
     '/ionic/upload/productImg/dajia-sample-1.jpg'
     );
@@ -101,12 +103,14 @@ VALUES(
 INSERT INTO dajia.product_img (
 	product_id,
     sort,
+    img_type,
     location,
     path
 	) 
 VALUES(
 	2,
     0,
+    1,
     '/Users/Puffy/Works/dajia_upload/dajia-sample-2.jpg',
     '/ionic/upload/productImg/dajia-sample-2.jpg'
     );
@@ -114,12 +118,59 @@ VALUES(
 INSERT INTO dajia.product_img (
 	product_id,
     sort,
+    img_type,
     location,
     path
 	) 
 VALUES(
 	3,
     0,
+    1,
     '/Users/Puffy/Works/dajia_upload/dajia-sample-3.jpg',
     '/ionic/upload/productImg/dajia-sample-3.jpg'
+    );
+    
+INSERT INTO dajia.product_img (
+	product_id,
+    sort,
+    img_type,
+    location,
+    path
+	) 
+VALUES(
+	1,
+    0,
+    2,
+    '/Users/Puffy/Works/dajia_upload/dajia-company-1.jpg',
+    '/ionic/upload/productImg/dajia-company-1.jpg'
+    );
+    
+INSERT INTO dajia.product_img (
+	product_id,
+    sort,
+    img_type,
+    location,
+    path
+	) 
+VALUES(
+	2,
+    0,
+    2,
+    '/Users/Puffy/Works/dajia_upload/dajia-company-2.jpg',
+    '/ionic/upload/productImg/dajia-company-2.jpg'
+    );
+    
+INSERT INTO dajia.product_img (
+	product_id,
+    sort,
+    img_type,
+    location,
+    path
+	) 
+VALUES(
+	3,
+    0,
+    2,
+    '/Users/Puffy/Works/dajia_upload/dajia-company-3.jpg',
+    '/ionic/upload/productImg/dajia-company-3.jpg'
     );

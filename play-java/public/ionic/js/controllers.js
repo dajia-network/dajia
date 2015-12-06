@@ -6,25 +6,32 @@ angular.module('starter.controllers', [ "ui.bootstrap", "countTo" ]).controller(
 	}).error(function(data, status, headers, config) {
 		console.log('request failed...');
 	});
-	// $scope.products = ProductService.getProducts();
+	// $scope.products = Mocks.getProducts();
 })
 
-.controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, $timeout, Mocks) {
+.controller('ProdDetailCtrl', function($scope, $stateParams, $state, $window, $timeout, $http, $ionicSlideBoxDelegate) {
 	console.log('产品详情...')
-	var product = Mocks.getProduct($stateParams.pid);
-	$scope.product = product;
-	$scope.orderNeeded = product.targetOrderNum - product.orderNum;
-	$scope.nextPriceOff = (product.oriPrice - product.targetPrice) / product.targetOrderNum;
-	$scope.buyNow = function() {
-		$window.location.href = '#/tab/prod/' + $stateParams.pid + '/order';
-	}
-	var amt = product.priceOff / (product.oriPrice - product.targetPrice) * 100;
-	$scope.countTo = product.price;
-	$scope.countFrom = product.oriPrice;
+	// var product = Mocks.getProduct($stateParams.pid);
+	$http.get('/product/' + $stateParams.pid).success(function(data, status, headers, config) {
+		// console.log(data);
+		var product = data;
+		$scope.product = product;
+		$scope.orderNeeded = product.maxOrder - product.orderNum;
+		$scope.nextPriceOff = product.priceOff / product.maxOrder;
+		$scope.buyNow = function() {
+			$window.location.href = '#/tab/prod/' + $stateParams.pid + '/order';
+		}
+		var amt = (product.originalPrice - product.currentPrice) / (product.originalPrice - product.targetPrice) * 100;
+		$scope.countTo = product.currentPrice;
+		$scope.countFrom = product.originalPrice;
+		$timeout(function() {
+			$scope.progressValue = amt;
+		}, 1000);
+		$ionicSlideBoxDelegate.update();
+	}).error(function(data, status, headers, config) {
+		console.log('request failed...');
+	});
 	$scope.progressValue = 0;
-	$timeout(function() {
-		$scope.progressValue = amt;
-	}, 1000);
 })
 
 .controller('ProgCtrl', function($scope, Mocks) {

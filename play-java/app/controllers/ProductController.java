@@ -13,6 +13,17 @@ public class ProductController extends Controller {
     
     public Result product(Long id) {
         Product product = Product.find.byId(id);
+        product.priceOff = product.originalPrice.add(product.currentPrice.negate());
+        List<ProductImage> prodImgs = ProductImage.find.select("path").where()
+        .eq("productId", product.productId).eq("imgType", 1).eq("isActive", "Y")
+        .findList();
+        List<ProductImage> vendorImgs = ProductImage.find.select("path").where()
+        .eq("productId", product.productId).eq("imgType", 2).eq("isActive", "Y")
+        .findList();
+        if(prodImgs != null && prodImgs.size() > 0)
+            product.productImg = prodImgs.get(0).path;
+        if(vendorImgs != null && vendorImgs.size() > 0)
+            product.vendorImg = vendorImgs.get(0).path;
         return ok(Json.toJson(product));
     }
     

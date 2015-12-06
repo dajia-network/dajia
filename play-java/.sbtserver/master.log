@@ -1293,3 +1293,2583 @@ Copy resource mappings:
 Total time: 1 s, completed Dec 6, 2015 2:06:04 AM
 > server-post-command-cleanup
 > server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@e98bdd, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 2:23:22 AM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 3
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@6acc1f5, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:09:58 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@193c75d3, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:10:05 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@bf8b636, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:10:09 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@6dc1f6bf, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:10:10 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@32060391, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 3:10:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@395472fa, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 3:32:17 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@5e74b622, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@7fe1863f directly...
+Java compilation took 0.180284489 s
+Java analysis took 0.137443819 s
+Java compile + analysis took 0.33092467 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 3:34:53 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 4
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@1cfb3233, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:34:53 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@57df2b84, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:34:53 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@735a7fbd, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:34:57 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@6e5982e9, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:34:58 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@6ee6c9a3, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@16f4aa43 directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+/Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+Read from stdout: p.currentPrice
+p.currentPrice
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+/Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+Read from stdout: p.originalPrice
+p.originalPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 0 s, completed Dec 6, 2015 3:34:59 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@53333a87, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@4bfa7c5b directly...
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+/Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+Read from stdout: p.currentPrice
+p.currentPrice
+Read from stdout: /Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+/Users/Puffy/git/dajia/play-java/app/models/Product.java:67: 程序包p不存在
+Read from stdout: p.originalPrice
+p.originalPrice
+Read from stdout: (compile:compileIncremental) javac returned nonzero exit code
+(compile:compileIncremental) javac returned nonzero exit code
+Total time: 0 s, completed Dec 6, 2015 3:35:00 PM
+> server-post-command-error-handler
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@4d7ef24d, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@3b2a9888 directly...
+Java compilation took 0.04876895 s
+Java analysis took 0.087773259 s
+Java compile + analysis took 0.140473191 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 0 s, completed Dec 6, 2015 3:35:12 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 5
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@6a40be5a, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:35:12 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@3980d1f4, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:35:12 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@1e82a799, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:35:15 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@aab5d10, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:35:16 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@52157b37, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 3:35:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@358d03d2, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/models/Product.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@41726b5b directly...
+Java compilation took 0.112072448 s
+Java analysis took 0.046719945 s
+Java compile + analysis took 0.167957387 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 3:36:19 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 6
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@22cb2da5, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:19 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@684aa631, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:19 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@160e7c04, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:22 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@6d741294, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:23 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@2423b24b, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@406e0f21 directly...
+Java compilation took 0.103935176 s
+Java analysis took 0.056087426 s
+Java compile + analysis took 0.167302338 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 3:36:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 7
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@4c2717c1, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@4e550af1, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@67517d67, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@128833fa, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@42f1967a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 3:36:32 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 8
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@418adcd9, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:38 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@423bbd8d, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:49 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@66d968e9, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:51 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@205cc3e5, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 3:36:53 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@37dd4b41, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 3:36:56 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@36eacead, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 8:34:17 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6f768bb8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 8:38:08 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@679aaeb2, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 8:39:00 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> compile
+Evaluating tasks: compile:compile
+Running task... Cancel: sbt.server.ServerTaskCancellation@a445fcf, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set(/Users/Puffy/git/dajia/play-java/app/controllers/ProductController.java)
+
+Read from stdout: Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Compiling 1 Java source to /Users/Puffy/git/dajia/play-java/target/scala-2.11/classes...
+Attempting to call com.sun.tools.javac.api.JavacTool@52d9ff6a directly...
+Java compilation took 0.185031166 s
+Java analysis took 0.113271919 s
+Java compile + analysis took 0.306195748 s
+New invalidations:
+	Set()
+Initial set of included nodes: Set()
+Previously invalidated, but (transitively) depend on new invalidations:
+	Set()
+All newly invalidated sources after taking into account (previously) recompiled sources:Set()
+Total time: 1 s, completed Dec 6, 2015 9:03:10 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 9
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@4510270c, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 9:03:10 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@1c4e3bdb, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 9:03:10 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@1d2ab34a, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 9:03:14 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@61434512, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 9:03:16 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@2fccb3fe, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 9:05:18 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@15ed38ff, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 9:07:22 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@149901e3, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 9:11:04 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@68859fe5, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 9:11:42 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@3743b669, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:03:21 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6fd7293e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:07:05 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@596e09db, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:18:11 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@79d72156, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:20:29 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@67cbde73, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:21:26 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@3bcb2a9e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:22:12 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6f3bb4b8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:22:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@61d47b00, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:25:32 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@48c9ce9c, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:29:32 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@5185484a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:30:18 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@23f64ce1, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:30:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@12ff15b7, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:30:55 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@58923598, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:33:12 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@15fc4ae8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:33:42 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@3b7c668f, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:35:44 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@419eef33, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:39:23 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@59a1d176, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:39:41 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@5be10f7a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:40:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@1f480fff, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:40:54 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@18eeea91, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:41:07 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6ad3f604, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:41:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6f38302d, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:45:31 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> jobStop 10
+Evaluating tasks: *:jobStop
+Running task... Cancel: sbt.server.ServerTaskCancellation@5808d811, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 10:47:52 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> backgroundRun
+Evaluating tasks: compile:backgroundRun
+Running task... Cancel: sbt.server.ServerTaskCancellation@48d5137c, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 10:48:03 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkConfig
+Evaluating tasks: *:playForkConfig
+Running task... Cancel: sbt.server.ServerTaskCancellation@5d8da58a, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 10:48:07 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> root/playForkNotifyStart http://localhost:9000
+Evaluating tasks: *:playForkNotifyStart
+Running task... Cancel: sbt.server.ServerTaskCancellation@50fda100, check cycles: false
+Total time: 0 s, completed Dec 6, 2015 10:48:09 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@2ab3d0f6, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:48:51 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@50d5fc20, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:49:23 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@7c2fcf8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:50:44 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@66deecb8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:51:08 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6e5b5cb1, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:51:24 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@59f7667a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:51:51 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@5ddaed9f, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:52:08 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@376caf09, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:53:22 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@47b653e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:53:31 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@17c148b3, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:54:14 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@4da49f3b, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:54:56 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@50f2cae7, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:56:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@22637c1b, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 10:56:50 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@55c43f8e, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:00:11 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@49f877c2, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:01:24 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@9389daa, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:02:24 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@2e428b49, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:03:20 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@13d979db, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:03:44 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@654cc750, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:04:00 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@429c2717, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:04:18 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@729ddd1d, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:05:58 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6015ecc7, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:07:01 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@5e387f1d, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 2 s, completed Dec 6, 2015 11:07:18 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@526c5fe4, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:08:50 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@88a9a98, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:09:46 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@169f4a35, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:09:46 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6364c0e8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:11:27 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@19a709e0, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:13:16 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@2c621916, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:13:47 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@7f26dc8, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:14:35 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@59d05f23, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:15:01 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@7e97b505, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:15:31 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@59e32ead, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:17:25 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@1fc23657, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:17:44 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@25047f23, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:21:28 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6fd3bc28, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:24:42 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@6dbef905, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 1 s, completed Dec 6, 2015 11:25:04 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@18386a13, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:25:36 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
+> {file:/Users/Puffy/git/dajia/play-java/}root/*:playForkReload
+Evaluating tasks: *:playForkReload
+Running task... Cancel: sbt.server.ServerTaskCancellation@7041a96a, check cycles: false
+
+Initial source changes: 
+	removed:Set()
+	added: Set()
+	modified: Set()
+Removed products: Set()
+External API changes: API Changes: Set()
+Modified binary dependencies: Set()
+Initial directly invalidated sources: Set()
+
+Sources indirectly invalidated by:
+	product: Set()
+	binary dep: Set()
+	external source: Set()
+All initially invalidated sources: Set()
+
+Copy resource mappings: 
+	(/Users/Puffy/git/dajia/play-java/conf/application.conf,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/application.conf)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions)
+	(/Users/Puffy/git/dajia/play-java/conf/logback.xml,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/logback.xml)
+	(/Users/Puffy/git/dajia/play-java/conf/routes,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/routes)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default)
+	(/Users/Puffy/git/dajia/play-java/conf/evolutions/default/1.sql,/Users/Puffy/git/dajia/play-java/target/scala-2.11/classes/evolutions/default/1.sql)
+Total time: 0 s, completed Dec 6, 2015 11:26:13 PM
+> server-post-command-cleanup
+> server-handle-next-server-request
