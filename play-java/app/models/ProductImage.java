@@ -40,9 +40,9 @@ public class ProductImage extends Model {
     @Column(name="is_active")
     public String isActive;
     
-    @ManyToOne
-    @JoinColumn(name="product_id")
-    private Product product;
+    // @ManyToOne
+    // @JoinColumn(name="product_id")
+    // private Product product;
     
     public static Finder<Long, ProductImage> find = new Finder<Long,ProductImage>(ProductImage.class);
 }

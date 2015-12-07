@@ -72,7 +72,8 @@ public class Product extends Model {
     @Transient
     public String vendorImg;
     
-    @OneToMany(mappedBy="product", cascade=CascadeType.ALL)
+    //@OneToMany(mappedBy="product", cascade=CascadeType.ALL)
+    @Transient
     public List<ProductImage> productImages;
     
     public static Finder<Long, Product> find = new Finder<Long,Product>(Product.class);
