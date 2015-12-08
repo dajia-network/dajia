@@ -33,13 +33,10 @@
 		</div>
 	
 		<div class="item tabs tabs-secondary tabs-icon-left">
-			<a class="tab-item" href="#"> <i class="icon ion-star"></i> 收藏 (89)
+			<a class="tab-item" href="#"> <i class="icon ion-star"></i> 收藏
 			</a> 
 			<a class="tab-item" href="#"> <i class="icon ion-share"></i> 分享
 			</a>
-			<button class="button button-outline button-assertive" ng-click="buyNow()">
-			  立即购买
-			</button>
 		</div>
 	</div>
 	<div class="card">
@@ -47,7 +44,7 @@
 	    产品介绍
 	  </div>
 	  <div class="item item-text-wrap">
-	    {{product.long_desc}}
+	    {{product.description}}
 	  </div>
 	</div>
 	<div class="card">
@@ -58,5 +55,12 @@
 	    {{product.spec}}
 	  </div>
 	</div>
-</ion-content> 
+</ion-content>
+<ion-footer-bar align-title="left" class="bar-stable">
+	<div class="row noPadding">
+		<div class="col noPadding text-right">
+			<button class="button button-outline button-assertive" ng-click="buyNow()">立即购买</button>
+		</div>
+	</div>
+</ion-footer-bar>
 </ion-view>

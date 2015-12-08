@@ -17,7 +17,26 @@ CREATE TABLE dajia.user (
     UNIQUE KEY (username),
     UNIQUE KEY (email),
     UNIQUE KEY (mobile)
-  );
+);
+  
+DROP TABLE dajia.contact_info;
+CREATE TABLE dajia.contact_info (
+	contact_info_id BIGINT(25) NOT NULL AUTO_INCREMENT,
+    user_id BIGINT(25) NOT NULL,
+    contact_name VARCHAR(100) NOT NULL,
+    contact_mobile VARCHAR(20) NOT NULL,
+    province VARCHAR(50),
+    city VARCHAR(50),
+    district VARCHAR(50),
+    zipcode VARCHAR(20),
+    is_default VARCHAR(5),
+    address_1 VARCHAR(400),
+    address_2 VARCHAR(400),
+	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+	modified_date TIMESTAMP NULL,
+    is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
+	PRIMARY KEY(contact_info_id)
+);
 
 DROP TABLE dajia.product;
 CREATE TABLE dajia.product (
@@ -52,4 +71,24 @@ CREATE TABLE dajia.product_img (
 	modified_date TIMESTAMP NULL,
     is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
 	PRIMARY KEY(img_id)
+);
+
+DROP TABLE dajia.product_order;
+CREATE TABLE dajia.product_order (
+	order_id BIGINT(25) NOT NULL AUTO_INCREMENT,
+	product_id BIGINT(25) NOT NULL,
+	contact_info_id BIGINT(25) NOT NULL,
+    payment_id BIGINT(25) NOT NULL,
+    quantity INT,
+    unit_price NUMERIC(10,2),
+    total_price NUMERIC(10,2),
+    order_status VARCHAR(100),
+    order_date TIMESTAMP NULL,
+    deliver_date TIMESTAMP NULL,
+    close_date TIMESTAMP NULL,
+    pay_type VARCHAR(100),
+	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+	modified_date TIMESTAMP NULL,
+    is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
+	PRIMARY KEY(order_id)
 );
