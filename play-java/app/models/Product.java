@@ -4,14 +4,13 @@ import java.util.*;
 import javax.persistence.*;
 import java.math.BigDecimal;
 
-import com.avaje.ebean.*;
-//import play.db.ebean.*;
+import play.db.ebean.*;
 import play.data.format.*;
 import play.data.validation.*;
 
 @Entity
 @Table(name="product")
-public class Product extends Model {
+public class Product extends BaseModel {
 
     @Column(name="product_id")
     @Id
@@ -53,15 +52,6 @@ public class Product extends Model {
     
     @Column(name="expired_date")
     public Date expiredDate;
-    
-    @Column(name="created_date")
-    public Date createdDate;
-    
-    @Column(name="modified_date")
-    public Date modifiedDate;
-
-    @Column(name="is_active")
-    public String isActive;
     
     @Transient
     public BigDecimal priceOff;

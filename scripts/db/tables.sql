@@ -19,9 +19,9 @@ CREATE TABLE dajia.user (
     UNIQUE KEY (mobile)
 );
   
-DROP TABLE dajia.contact_info;
-CREATE TABLE dajia.contact_info (
-	contact_info_id BIGINT(25) NOT NULL AUTO_INCREMENT,
+DROP TABLE dajia.user_contact;
+CREATE TABLE dajia.user_contact (
+	user_contact_id BIGINT(25) NOT NULL AUTO_INCREMENT,
     user_id BIGINT(25) NOT NULL,
     contact_name VARCHAR(100) NOT NULL,
     contact_mobile VARCHAR(20) NOT NULL,
@@ -35,7 +35,7 @@ CREATE TABLE dajia.contact_info (
 	created_date TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
 	modified_date TIMESTAMP NULL,
     is_active VARCHAR(5) NOT NULL DEFAULT 'Y',
-	PRIMARY KEY(contact_info_id)
+	PRIMARY KEY(user_contact_id)
 );
 
 DROP TABLE dajia.product;
@@ -73,11 +73,12 @@ CREATE TABLE dajia.product_img (
 	PRIMARY KEY(img_id)
 );
 
-DROP TABLE dajia.product_order;
-CREATE TABLE dajia.product_order (
+DROP TABLE dajia.user_order;
+CREATE TABLE dajia.user_order (
 	order_id BIGINT(25) NOT NULL AUTO_INCREMENT,
 	product_id BIGINT(25) NOT NULL,
-	contact_info_id BIGINT(25) NOT NULL,
+	user_contact_id BIGINT(25) NOT NULL,
+    user_id BIGINT(25) NOT NULL,
     payment_id BIGINT(25) NOT NULL,
     quantity INT,
     unit_price NUMERIC(10,2),
