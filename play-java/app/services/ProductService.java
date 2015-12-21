@@ -1,7 +1,9 @@
 package services;
 
 import java.util.*;
+
 import models.*;
+import utils.*;
 
 public class ProductService {
     
@@ -17,5 +19,11 @@ public class ProductService {
         .eq("productId", productId).eq("imgType", 2).eq("isActive", "Y")
         .findList();
         return vendorImgs;
+    }
+    
+    public static List<Product> loadAllProductsFromVendor() {
+        List<Product> productList = new ArrayList<Product>();
+        
+        return productList;
     }
 }

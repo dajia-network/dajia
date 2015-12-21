@@ -19,6 +19,8 @@ import play.twirl.api.Content;
 import static play.test.Helpers.*;
 import static org.junit.Assert.*;
 
+import models.*;
+import services.*;
 
 /**
 *
@@ -33,13 +35,11 @@ public class ApplicationTest {
         int a = 1 + 1;
         assertEquals(2, a);
     }
-
+    
     @Test
-    public void renderTemplate() {
-        Content html = views.html.index.render("Your new application is ready.");
-        assertEquals("text/html", contentType(html));
-        assertTrue(contentAsString(html).contains("Your new application is ready."));
+    public void testVendor() {
+        ProductService pService = new ProductService();
+        pService.loadAllProductsFromVendor();
     }
-
 
 }

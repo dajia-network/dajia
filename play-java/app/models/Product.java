@@ -15,6 +15,9 @@ public class Product extends BaseModel {
     @Column(name="product_id")
     @Id
     public Long productId;
+    
+    @Column(name="ref_id")
+    public Long refId;
 
     @Column(name="short_name")
     public String shortName;
